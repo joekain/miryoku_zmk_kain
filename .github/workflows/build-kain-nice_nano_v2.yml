@@ -13,4 +13,5 @@ jobs:
     with:
       board: '["nice_nano_v2"]'
       shield: '["kain_left","kain_right"]'
+      alphas: '["QWERTY"]'
 
